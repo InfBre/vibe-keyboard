@@ -33,7 +33,3 @@ python3 -m http.server 3458
 纯原生：HTML + CSS + Web Audio API + Canvas。**0 个 npm 包**。
 
 整个项目就一个 `index.html`，~1700 行。
-
-## 致谢
-
-灵感来自 [InfBre/Music-Keyboard-MIDI-Controller](https://github.com/InfBre/Music-Keyboard-MIDI-Controller) — TS/React 版本。本仓库是单文件原生版本。
