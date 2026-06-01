@@ -26,7 +26,7 @@ python3 -m http.server 3458
 
 1. Settings → Pages
 2. Source 选 `main` 分支 `/` 根目录
-3. 等 30 秒拿到 `https://infbre.github.io/<repo-name>/` 链接
+3. 等 30 秒拿到 `https://infbre.github.io/vibe-keyboard/` 链接
 
 ## 技术栈
 
